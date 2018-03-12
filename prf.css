@@ -1,0 +1,241 @@
+body{
+    height:100%;
+    width:100%;
+    background-image: url(369H.jpg);
+    background-size: cover
+}
+h1{
+    text-align:inherit;
+    position: absolute;
+    top:-10px;
+    font-family:Castellar;
+    width:1200px;
+    left:120px;
+}
+article{
+    height:490px;
+    width:1345px;
+    float:left;
+    background:grey;
+    position: absolute;
+    top:120px;
+    border-radius:15px;
+}
+article img{
+    float:left;
+    margin:10px;
+    width:645px;
+    height:470px;
+    -webkit-filter: blur(0px); 
+     -moz-filter: blur(0px); 
+     -o-filter: blur(1px);
+     -ms-filter: blur(1px); 
+     filter: blur(0px);
+     z-index:0;
+    border-radius:15px;
+}
+article #sd{
+    float:right;
+    right:12px;
+    top:-29.5px;
+    position: absolute;
+    color:crimson;
+    font-weight: 300;
+    font-size:40px;
+    font-family:Lucida Calligraphy;
+    width:663px;
+    height:470px;
+    background-image: url(373H.jpg);
+    background-size:cover;
+    opacity:500px;
+    text-align: center;
+    border-radius:15px;
+}
+#df{
+    height:100px;
+}
+p{
+    display:inline-block;
+}
+/*
+nav{
+    float:right;
+    background-color: grey 2% 2% 2% 2%;
+    display: none;
+}
+
+img{
+    height: 70px;
+    width:70px;background:
+}
+#d{
+    height:50px;
+    width: 50px;
+}#f{
+    height:50px;
+    width: 50px;
+}#e{
+    height:50px;
+    width: 50px;
+}
+a{
+    display:block;
+    padding:10px;
+}
+li{
+    float:right;
+    cursor: pointer;
+}
+li :hover a{
+    display: block;
+}
+
+*/
+#gh{
+   height:470px;
+    width:1345px;
+    position:absolute;
+    top:1200px;
+    background:grey; 
+    display: inherit;
+    border-radius:15px;
+}
+ #ds{
+    font-size:28px;
+    font-family:Bookman Old Style;
+    width:665px;
+    height:450px;
+    background-color:beige;
+    margin:10px;
+    float :right;
+    text-align:center;
+    border-radius:15px;
+     }
+#ss{
+    font-size:30px;
+    font-family: Bookman Old Style;
+    width:665px;
+    height:450px;
+    background-color:beige;
+    text-align: center;
+    margin:10px;
+    float :right; 
+   border-radius:15px;
+}
+#fd img{
+    border-radius:10px;
+    background:white;
+    margin:55px;
+    display:inline;
+    float:left;
+}
+#fd{
+    font-size:40px;
+    font-family:Bookman Old Style;
+    width:645px;
+    height:450px;
+    background-color: darkgray;
+    text-align: center;
+    margin:10px;
+    position: absolute;
+   border-radius:15px;
+}
+#ff{
+    font-size:100px;
+    font-family: Bookman Old Style;
+    width:645px;
+    height:450px;
+    background:beige;
+    text-align: center;
+    margin:10px;
+    position: absolute;
+   border-radius:15px;
+}
+}
+footer{
+    height:10px;
+    width:1345px;
+    background:transparent;
+    position: absolute;
+    top: 1670px;
+}
+section{
+height:470px;
+    width:1345px;
+    position:absolute;
+    top:650px;
+    background:grey;
+    border-radius:15px;
+
+}
+.nav {
+    position: fixed;
+    display: inline-block;
+    float:left;
+   left:0px;
+}
+.nav img{
+    width:100px;
+    height:100px;
+    background:white;
+    border-radius:50px;
+}
+
+.t {
+    display: none;
+    position: absolute;
+    background:grey;
+    min-width: 700px;
+    min-height:510px;
+    right:-20px;
+   /* border:5px solid grey;*/
+    margin:-10px;
+    border-radius:10px;
+    top:-18px;
+    float:left;
+    left:100px;
+}
+.t img{
+ height:50px;
+  width:50px;
+}
+
+
+.t a {
+    color: black;
+    text-decoration: none;
+    display:inline-block;
+    background:tranparent;
+    margin:60px;
+}/*
+div{
+    float :right;
+    position:absolute;
+    top:0px;
+     height:100px;
+  width:100px;
+    right:20px;
+}*/
+a #a {
+    background-color:aliceblue;
+    border-radius:10px;}
+a #f {
+    background-color:aliceblue;
+    border-radius:10px;
+}
+.t a:hover {background-color:transparent}
+
+
+.nav:hover .t {
+    display: block;
+}
+.nav:hover .t {
+    background-color:transparent;
+}
+/*.g{
+    font-family:Castellar;
+    position:absolute;
+    top:50px;
+    left:120px;
+    width:1200px;
+}*/

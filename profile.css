@@ -1,0 +1,99 @@
+body{
+    background-image: url(39028076-nice-wallpapers.jpg);
+    background-size: auto auto;
+  
+    
+}
+
+
+header img{
+   float: left;
+   position:relative;
+    top:0px; 
+    background-color:white;
+    border-radius:40px ;
+    width:85px;
+    height:auto; /*border:5px solid brown;*/
+}
+ nav{
+    float:right;
+    right:10px;
+    margin-top: 66px;
+  position: absolute;
+    display: center;
+   
+}
+a{
+    display: inline-block;
+    margin:0px;
+    position:relative;
+    top:-58px;
+    font-family:Lucida Calligraphy;
+    font-size:20;
+    color: ghostwhite;
+    text-decoration: none;
+    text-align: center;
+   border-right:1px solid white;
+   
+    width:170px;
+}
+a:hover{
+   font-family:Lucida Calligraphy;
+    font-size:1.49em;
+    color:gold;
+}
+
+
+nav img{
+    position: absolute;
+    top:-70px;
+}
+
+article{
+   width:1350px;
+    height:500px;
+    background:transparent;
+    position: absolute;
+    top:130px;
+    font-size: 70px;
+    font-family: Imprint MT Shadow;
+    text-align: center;
+    text-shadow :white;
+    color:beige;
+    text-rendering: optimizeLegibility;
+    text-emphasis-color: aqua;
+}
+/*marquee{
+   animation: slide 10s infinite;
+}
+button{
+    width:200px;
+    background:transparent;
+    border:1px transparent;
+    font-family:Lucida Calligraphy;
+    font-size:20;
+    color: ghostwhite;
+    text-decoration: none;
+}
+button*/
+#h{
+    border-right-color: transparent;
+}
+#d{
+    border-left-color: transparent;
+     border-left:1px solid transparent;
+}
+p{
+    height:40px;
+}
+/*button{
+    width: 1000px;
+    font-size:50px;
+    background:transparent;
+    color:aliceblue;
+}*/
+section:hover{
+   font-family: Imprint MT Shadow;
+    font-size:70px;
+    color:gold;
+}
